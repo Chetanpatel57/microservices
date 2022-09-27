@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Chetanpatel57/microservices/issues"
   },
-  "homepage": "https://github.com/Chetanpatel57/microservices#readme"
+  "homepage": "https://github.com/Chetanpatel57/microservices#readme",
+  "dependencies": {
+    "seneca": "2.0.0"
+  }
 }
